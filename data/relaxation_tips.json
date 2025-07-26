@@ -1,0 +1,72 @@
+{
+  "Sad": [
+    "Journaling Prompt: Write down 3 things you’re grateful for today.",
+    "Affirmation: 'I am strong, I am capable, I am calm.'",
+    "Progress Reflection: Think about one small thing you’ve overcome recently.",
+    "Write a Letter to your future self reminding them they’ll be okay.",
+    "Mirror Talk: Look into a mirror and say something kind to yourself."
+  ],
+  "Anxious": [
+    "Box Breathing: Inhale 4 sec, hold 4, exhale 4, hold 4 — repeat 4 times.",
+    "One-Minute Body Scan: Mentally scan your body from head to toe.",
+    "Name It to Tame It: Say 'I’m feeling anxious' aloud to reduce its power.",
+    "Feel Your Feet: Stand still and notice your feet pressing the ground.",
+    "Candle Focus: Light a candle and watch the flame for 30–60 seconds."
+  ],
+  "Lonely": [
+    "Self-Hug: Wrap your arms around yourself and squeeze gently.",
+    "Sip Something Warm: Drink tea or coffee mindfully.",
+    "Finger Tracing: Trace your fingers with your other hand slowly.",
+    "Smile at Yourself: Literally smile at your reflection.",
+    "Gratitude Exercise: Write a thank-you note to yourself."
+  ],
+  "Angry": [
+    "Stretch & Smile: Stretch your arms and smile — it helps.",
+    "Mindful Listening: Focus on 3 sounds around you silently.",
+    "Hand Tapping: Gently tap each finger and breathe calmly.",
+    "Releasing Sound: Exhale with a sigh or gentle hum.",
+    "Digital Detox: Keep your phone away for 20 minutes."
+  ],
+  "Motivated": [
+    "Visualize Goals: Close your eyes and picture your goal coming true.",
+    "Victory List: Write down 3 things you’re proud of this week.",
+    "Plan with Joy: Schedule something you’re excited about.",
+    "High-Five Yourself: Literally give yourself a high five!",
+    "Power Walk: Walk around for 5 minutes, focusing on breath + posture."
+  ],
+  "Happy": [
+    "Music Reset: Listen to a song that boosts your good mood.",
+    "Nature Break: Look at the sky, tree, or bird for 1 minute.",
+    "Treat Yourself: Enjoy a small treat — mindfully and fully.",
+    "Smile Boost: Send someone a kind message right now.",
+    "Balloon Breath: Pretend you're inflating a balloon with each breath — then release it!"
+  ],
+  "Excited": [
+    "Dance Break: Put on your favorite upbeat song and dance it out.",
+    "Vision Board: Add something new to your goal board.",
+    "Spread Energy: Share your excitement with a friend.",
+    "Celebrate Small Wins: Recognize what got you excited.",
+    "Body Vibes: Do a few jumping jacks or fist pumps!"
+  ],
+  "Tired": [
+    "Quick Nap: Take a 10-15 min power nap if possible.",
+    "Gentle Stretching: Do slow stretches to refresh the body.",
+    "Hydrate: Drink a full glass of water.",
+    "Eye Break: Close your eyes and rest them for 1 minute.",
+    "Soothing Sounds: Listen to soft music or white noise."
+  ],
+  "Bored": [
+    "Try Something New: Do one thing you haven’t done today.",
+    "Creative Corner: Doodle, sketch, or write a haiku.",
+    "Shuffle Songs: Discover a random new playlist.",
+    "Learn a Fact: Google something random and fun.",
+    "Move Break: Stand, stretch, or take a short walk."
+  ],
+  "Overwhelmed": [
+    "Prioritize 3: Write down just 3 things to focus on.",
+    "Breathe & Pause: Close your eyes and take 5 deep breaths.",
+    "Ask for Help: Text someone for support.",
+    "Slow Down: Remind yourself to go one step at a time.",
+    "Visual Calm: Look at a calming image or nature view."
+  ]
+}

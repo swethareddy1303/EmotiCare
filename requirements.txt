@@ -1,0 +1,9 @@
+streamlit
+fpdf
+gtts
+playsound
+transformers
+torch
+langchain
+sentence-transformers
+
